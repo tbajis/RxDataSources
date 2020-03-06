@@ -1,1 +1,1 @@
-github "ReactiveX/RxSwift" ~> 4.0
+git "git@github.com:tbajis/RxSwift" "static_lib_4.5"
